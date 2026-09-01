@@ -1,0 +1,14 @@
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="8" fill="#1C64F2" fill-opacity="0.1"/>
+  <!-- Polygon Shape -->
+  <polygon points="8,10 26,6 22,26 6,22" fill="#3B82F6" fill-opacity="0.3" stroke="#2563EB" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Connection / Relate Links -->
+  <path d="M22 20 L34 30" stroke="#059669" stroke-width="2" stroke-dasharray="3 3"/>
+  <path d="M18 16 L38 18" stroke="#059669" stroke-width="2" stroke-dasharray="3 3"/>
+  <!-- Related Points -->
+  <circle cx="34" cy="30" r="5" fill="#10B981" stroke="#047857" stroke-width="2"/>
+  <circle cx="38" cy="18" r="4" fill="#10B981" stroke="#047857" stroke-width="2"/>
+  <circle cx="28" cy="40" r="4" fill="#10B981" stroke="#047857" stroke-width="2"/>
+  <!-- Filter Funnel Accent -->
+  <path d="M38 34 L46 34 L42 40 L42 44 L40 43 L40 40 Z" fill="#F59E0B" stroke="#D97706" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "relate-hybrid-filter",
+  "label": "Relate Hybrid Filter",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "Bidirectional query, filter, and highlight between polygon and point layers using Esri relationship classes.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "useMapWidget": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
