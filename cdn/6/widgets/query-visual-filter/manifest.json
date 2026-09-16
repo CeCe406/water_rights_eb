@@ -1,0 +1,22 @@
+{
+  "name": "query-visual-filter",
+  "label": "Query Visual Filter",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is a widget to both query and then visually filter results on the map.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "useMapWidget": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
